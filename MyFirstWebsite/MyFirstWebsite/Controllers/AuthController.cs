@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace MyFirstWebsite.Controllers
 {
+    [AllowAnonymous]
     public class AuthController : Controller
     {
         // GET: Auth
