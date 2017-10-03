@@ -68,3 +68,12 @@ C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\obj\Debu
 C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.csproj.CoreCompileInputs.cache
 C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.dll
 C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\obj\Debug\MyFirstWebsite.pdb
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.dll
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.dll
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Owin.dll
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.xml
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.xml
+C:\Users\katie\Projects\MVCTutorial_Katie\MyFirstWebsite\MyFirstWebsite\bin\Microsoft.Owin.Security.Cookies.xml
