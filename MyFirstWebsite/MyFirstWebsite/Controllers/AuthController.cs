@@ -53,6 +53,7 @@ namespace MyFirstWebsite.Controllers
             }
 
             ModelState.AddModelError("", "Invalid email or password");
+
             return View(model);
         }
 
@@ -64,6 +65,16 @@ namespace MyFirstWebsite.Controllers
             }
 
             return returnUrl;
+        }
+
+        public ActionResult Logout()
+        {
+            var ctx = Request.GetOwinContext();
+            var authManager = ctx.Authentication;
+
+            authManager.SignOut("ApplicationCookie");
+
+            return RedirectToAction("Login", "Auth");
         }
     }
 }
